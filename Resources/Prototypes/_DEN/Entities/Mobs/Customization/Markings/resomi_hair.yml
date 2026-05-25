@@ -5,7 +5,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiBackstrafe
 
 - type: marking
@@ -15,7 +15,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiBurstShort
 
 - type: marking
@@ -25,7 +25,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiDefault
 
 - type: marking
@@ -35,7 +35,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiDroopy
 
 - type: marking
@@ -45,7 +45,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiEars
 
 - type: marking
@@ -55,7 +55,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiFluffymohawk
 
 - type: marking
@@ -65,7 +65,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiHedge
 
 - type: marking
@@ -75,7 +75,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiLongway
 
 - type: marking
@@ -85,7 +85,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiMane
 
 - type: marking
@@ -95,7 +95,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiManeBeardless
 
 - type: marking
@@ -105,7 +105,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiMohawk
 
 - type: marking
@@ -115,7 +115,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiMushroom
 
 - type: marking
@@ -125,7 +125,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiNotree
 
 - type: marking
@@ -135,7 +135,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiSpiky
 
 - type: marking
@@ -145,7 +145,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiPointy
 
 - type: marking
@@ -155,7 +155,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiTwies
 
 - type: marking
@@ -165,7 +165,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiUpright
 
 - type: marking
@@ -175,7 +175,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiLong
 
 # Few Additions here - Chlymerine
@@ -187,7 +187,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiRebel
 
 - type: marking
@@ -197,7 +197,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiRebelExtended
 
 - type: marking
@@ -207,7 +207,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiLoyal
 
 - type: marking
@@ -217,7 +217,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiLoyalMale
 
 - type: marking
@@ -227,7 +227,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiCosmorunner
 
 - type: marking
@@ -237,7 +237,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiPlumage
 
 - type: marking
@@ -247,7 +247,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiPlumageLong
 
 - type: marking
@@ -257,7 +257,7 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiGenericallyUnique
 
 - type: marking
@@ -267,5 +267,5 @@
 #  speciesRestriction: [Resomi]
   groupWhitelist: []
   sprites:
-  - sprite: _Floof/Mobs/Customization/Resomi/resomi_hair.rsi
+  - sprite: _DEN/Mobs/Customization/Resomi/resomi_hair.rsi
     state: ResomiRoyalPlume
